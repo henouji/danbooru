@@ -1,9 +1,5 @@
 <?php
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 // Get Method
 // Route::get('/about', function (){
 //     return view('pages.about');
